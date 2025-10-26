@@ -1,0 +1,341 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="DR1" tvg-logo="https://s.c.dk/tvlab/tvicons/prddr1_1577861045_logo_svg.",DR1
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="DR2" tvg-logo="https://s.c.dk/tvlab/tvicons/prddr2_1577861303_logo_svg.",DR2
+https://link/to/your/channel/2.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="TV 2 Danmark" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv-2_1679917723_logo_svg.svg",TV 2 Danmark
+https://link/to/your/channel/3.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="TV 2 ZULU" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv-2-echo_1679904358_logo_svg.svg",TV 2 ZULU
+https://link/to/your/channel/4.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="TV 2 Charlie" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv-2-charlie_1679908777_logo_svg.svg",TV 2 Charlie
+https://link/to/your/channel/5.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="TV3" tvg-logo="https://s.c.dk/tvlab/tvicons/tv3_1551783729_logo_svg.svg",TV3
+https://link/to/your/channel/7.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="TV3+" tvg-logo="https://i.c.dk/tvicons/tv3plus_logo_svg.svg",TV3+
+https://link/to/your/channel/8.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="Kanal 4" tvg-logo="https://s.c.dk/tvlab/tvicons/prdkanal-4_1716292665_logo_svg.svg",Kanal 4
+https://link/to/your/channel/9.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="Kanal 5" tvg-logo="https://s.c.dk/tvlab/tvicons/prdkanal-5_1716296840_logo_svg.svg",Kanal 5
+https://link/to/your/channel/10.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="Infokanalen" tvg-logo="https://s.c.dk/tvlab/tvicons/prdinfokanalen_1704807986_logo_svg.svg",Infokanalen
+https://link/to/your/channel/11.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="TV3 Puls" tvg-logo="https://s.c.dk/tvlab/tvicons/tv3_puls_1551958876_logo_svg.svg",TV3 Puls
+https://link/to/your/channel/12.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="dk4" tvg-logo="https://i.c.dk/tvicons/dk4_logo_svg.svg",dk4
+https://link/to/your/channel/13.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Trailerkanalen" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtrailerkanalen_1704808066_logo_svg.svg",Trailerkanalen
+https://link/to/your/channel/14.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="6´eren" tvg-logo="https://s.c.dk/tvlab/tvicons/prd6eren_1716292894_logo_svg.svg",6´eren
+https://link/to/your/channel/17.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="Nickelodeon" tvg-logo="https://s.c.dk/tvlab/tvicons/prdnickelodeon_1713442242_logo_svg.svg",Nickelodeon
+https://link/to/your/channel/18.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="Disney Channel" tvg-logo="https://s.c.dk/tvlab/tvicons/prddisney-channel_1666606629_logo_svg.svg",Disney Channel
+https://link/to/your/channel/19.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="Cartoon Network" tvg-logo="https://s.c.dk/tvlab/tvicons/prdcartoon-network_1588678744_logo_svg.svg",Cartoon Network
+https://link/to/your/channel/20.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="National Geographic Wild" tvg-logo="https://s.c.dk/tvlab/tvicons/nat_geo_wild_hd_1548988780_logo_svg.svg",National Geographic Wild
+https://link/to/your/channel/23.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="Eurosport 1" tvg-logo="https://s.c.dk/tvlab/tvicons/prdeurosport-1_1760010116_logo_svg.svg",Eurosport 1
+https://link/to/your/channel/24.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="TV3 SPORT" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv3-sport_1659946275_logo_svg.svg",TV3 SPORT
+https://link/to/your/channel/25.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="TV3 MAX" tvg-logo="https://i.c.dk/tvicons/tv3_max_logo_svg.svg",TV3 MAX
+https://link/to/your/channel/26.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="Discovery" tvg-logo="https://s.c.dk/tvlab/tvicons/discovery_channel_1569317646_logo_svg.svg",Discovery
+https://link/to/your/channel/30.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="Animal Planet" tvg-logo="https://s.c.dk/tvlab/tvicons/animal_planet_1548111789_logo_svg.svg",Animal Planet
+https://link/to/your/channel/31.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="National Geographic" tvg-logo="https://s.c.dk/tvlab/tvicons/national_geographic_1549638230_logo_svg.svg",National Geographic
+https://link/to/your/channel/32.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="DR1 Synstolkning" tvg-logo="https://i.c.dk/tvicons/dr1_syn_logo_svg.svg",DR1 Synstolkning
+https://link/to/your/channel/33.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="DR2 Synstolkning" tvg-logo="https://i.c.dk/tvicons/dr2_syn_logo_svg.svg",DR2 Synstolkning
+https://link/to/your/channel/34.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="Nick Music" tvg-logo="https://s.c.dk/tvlab/tvicons/prdnick-music_1710886178_logo_svg.svg",Nick Music
+https://link/to/your/channel/37.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="TV 2 News" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv-2-news_1679909346_logo_svg.svg",TV 2 News
+https://link/to/your/channel/38.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="BBC Nordic" tvg-logo="https://s.c.dk/tvlab/tvicons/prdbbc-nordic_1717508194_logo_svg.svg",BBC Nordic
+https://link/to/your/channel/40.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="BBC News" tvg-logo="https://s.c.dk/tvlab/tvicons/prdbbc-news_1681649535_logo_svg.svg",BBC News
+https://link/to/your/channel/41.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="CNN" tvg-logo="https://i.c.dk/tvicons/cnn_logo_svg.svg",CNN
+https://link/to/your/channel/42.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="TV4" tvg-logo="https://s.c.dk/tvlab/tvicons/tv4_1551961074_logo_svg.svg",TV4
+https://link/to/your/channel/44.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="SVT1" tvg-logo="https://s.c.dk/tvlab/tvicons/svt1_1551717934_logo_svg.svg",SVT1
+https://link/to/your/channel/45.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="SVT2" tvg-logo="https://s.c.dk/tvlab/tvicons/svt2_1551718370_logo_svg.svg",SVT2
+https://link/to/your/channel/46.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="NRK2" tvg-logo="https://s.c.dk/tvlab/tvicons/nrk2_1551874228_logo_svg.svg",NRK2
+https://link/to/your/channel/47.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="NRK1" tvg-logo="https://s.c.dk/tvlab/tvicons/prdnrk1_1753698811_logo_svg.svg",NRK1
+https://link/to/your/channel/48.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="TV 2 Norge" tvg-logo="https://s.c.dk/tvlab/tvicons/tv_2_norge_1551725840_logo_svg.svg",TV 2 Norge
+https://link/to/your/channel/49.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="ARD" tvg-logo="https://s.c.dk/tvlab/tvicons/prdard_1695737750_logo_svg.svg",ARD
+https://link/to/your/channel/51.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="ZDF" tvg-logo="https://s.c.dk/tvlab/tvicons/zdf_1551796920_logo_svg.svg",ZDF
+https://link/to/your/channel/52.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="NDR" tvg-logo="https://s.c.dk/tvlab/tvicons/prdndr_1666605836_logo_svg.svg",NDR
+https://link/to/your/channel/53.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="RTL" tvg-logo="https://i.c.dk/tvicons/rtl_logo_svg.svg",RTL
+https://link/to/your/channel/54.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="Sat.1" tvg-logo="https://s.c.dk/tvlab/tvicons/prdsat1_1666606337_logo_svg.svg",Sat.1
+https://link/to/your/channel/55.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="ProSieben" tvg-logo="https://i.c.dk/tvicons/prosieben_logo_svg.svg",ProSieben
+https://link/to/your/channel/56.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="VOX" tvg-logo="https://s.c.dk/tvlab/tvicons/vox_1551964620_logo_svg.svg",VOX
+https://link/to/your/channel/57.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="TLC" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtlc_1719310538_logo_svg.svg",TLC
+https://link/to/your/channel/59.m3u8
+#EXTINF:-1 tvg-id="65" tvg-name="Lokal-tv" tvg-logo="https://s.c.dk/tvlab/tvicons/lokaltv_1551444508_logo_svg.svg",Lokal-tv
+https://link/to/your/channel/65.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="TV 2 Fri" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv-2-fri_1679909169_logo_svg.svg",TV 2 Fri
+https://link/to/your/channel/72.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="Euronews" tvg-logo="https://s.c.dk/tvlab/tvicons/prdeuronews_1677571926_logo_svg.svg",Euronews
+https://link/to/your/channel/73.m3u8
+#EXTINF:-1 tvg-id="76" tvg-name="YouSee Event - Viaplay Sport News" tvg-logo="https://s.c.dk/tvlab/tvicons/prdeventkanalen_1732700619_logo_svg.svg",YouSee Event - Viaplay Sport News
+https://link/to/your/channel/76.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="Lokal infokanal" tvg-logo="https://s.c.dk/tvlab/tvicons/lokal_infokanal_1551444548_logo_svg.svg",Lokal infokanal
+https://link/to/your/channel/77.m3u8
+#EXTINF:-1 tvg-id="79" tvg-name="TV 2 Sport" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv-2-sport_1679909529_logo_svg.svg",TV 2 Sport
+https://link/to/your/channel/79.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="Lokal infokanal 2" tvg-logo="https://s.c.dk/tvlab/tvicons/lokal_infokanal_2_1550093049_logo_svg.svg",Lokal infokanal 2
+https://link/to/your/channel/83.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="HISTORY" tvg-logo="https://s.c.dk/tvlab/tvicons/history_channel_1551690032_logo_svg.svg",HISTORY
+https://link/to/your/channel/84.m3u8
+#EXTINF:-1 tvg-id="86" tvg-name="4K prg2" tvg-logo="https://s.c.dk/tvlab/tvicons/haip_test_4_1554216676_logo_svg.svg",4K prg2
+https://link/to/your/channel/86.m3u8
+#EXTINF:-1 tvg-id="89" tvg-name="Nicktoons" tvg-logo="https://s.c.dk/tvlab/tvicons/prdnicktoons_1716282362_logo_svg.svg",Nicktoons
+https://link/to/your/channel/89.m3u8
+#EXTINF:-1 tvg-id="93" tvg-name="Nick Jr." tvg-logo="https://s.c.dk/tvlab/tvicons/prdnick-jr_1713442954_logo_svg.svg",Nick Jr.
+https://link/to/your/channel/93.m3u8
+#EXTINF:-1 tvg-id="94" tvg-name="CNBC" tvg-logo="https://s.c.dk/tvlab/tvicons/prdcnbc_1671616909_logo_svg.svg",CNBC
+https://link/to/your/channel/94.m3u8
+#EXTINF:-1 tvg-id="95" tvg-name="Viasat Nature" tvg-logo="https://i.c.dk/tvicons/viasat_nature_crime_logo_svg.svg",Viasat Nature
+https://link/to/your/channel/95.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="Canal9" tvg-logo="https://s.c.dk/tvlab/tvicons/prdcanal-9_1759319620_logo_svg.svg",Canal9
+https://link/to/your/channel/99.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="MTV 90s" tvg-logo="https://s.c.dk/tvlab/tvicons/prdmtv-90s_1666600146_logo_svg.svg",MTV 90s
+https://link/to/your/channel/110.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="MTV Hits" tvg-logo="https://s.c.dk/tvlab/tvicons/mtv_hits_1551785901_logo_svg.svg",MTV Hits
+https://link/to/your/channel/112.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="MTV 80s" tvg-logo="https://s.c.dk/tvlab/tvicons/prdmtv-80s_1666599982_logo_svg.svg",MTV 80s
+https://link/to/your/channel/113.m3u8
+#EXTINF:-1 tvg-id="115" tvg-name="Viaplay Sport News" tvg-logo="https://s.c.dk/tvlab/tvicons/prdviaplay-sport-news_1758185380_logo_svg.svg",Viaplay Sport News
+https://link/to/your/channel/115.m3u8
+#EXTINF:-1 tvg-id="117" tvg-name="Travel Channel" tvg-logo="https://s.c.dk/tvlab/tvicons/travel_channel_1551718810_logo_svg.svg",Travel Channel
+https://link/to/your/channel/117.m3u8
+#EXTINF:-1 tvg-id="118" tvg-name="Viaplay Event 1" tvg-logo="https://s.c.dk/tvlab/tvicons/prdviaplay-event-1_1757499008_logo_svg.svg",Viaplay Event 1
+https://link/to/your/channel/118.m3u8
+#EXTINF:-1 tvg-id="119" tvg-name="SPORT LIVE" tvg-logo="https://s.c.dk/tvlab/tvicons/sport_live_1562928626_logo_svg.svg",SPORT LIVE
+https://link/to/your/channel/119.m3u8
+#EXTINF:-1 tvg-id="120" tvg-name="Viaplay event 2" tvg-logo="https://s.c.dk/tvlab/tvicons/prdviaplay-event-2_1757499301_logo_svg.svg",Viaplay event 2
+https://link/to/your/channel/120.m3u8
+#EXTINF:-1 tvg-id="121" tvg-name="Viaplay Event 3" tvg-logo="https://s.c.dk/tvlab/tvicons/prdviaplay-event-3_1757499539_logo_svg.svg",Viaplay Event 3
+https://link/to/your/channel/121.m3u8
+#EXTINF:-1 tvg-id="122" tvg-name="Motorvision TV" tvg-logo="https://s.c.dk/tvlab/tvicons/motors_tv_1543427210_logo_svg.svg",Motorvision TV
+https://link/to/your/channel/122.m3u8
+#EXTINF:-1 tvg-id="123" tvg-name="MTV" tvg-logo="https://s.c.dk/tvlab/tvicons/mtv_1551785544_logo_svg.svg",MTV
+https://link/to/your/channel/123.m3u8
+#EXTINF:-1 tvg-id="125" tvg-name="ARTE" tvg-logo="https://s.c.dk/tvlab/tvicons/arte_1550583585_logo_svg.svg",ARTE
+https://link/to/your/channel/125.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="Mezzo" tvg-logo="https://s.c.dk/tvlab/tvicons/prdmezzo_1680250803_logo_svg.svg",Mezzo
+https://link/to/your/channel/126.m3u8
+#EXTINF:-1 tvg-id="128" tvg-name="TV5MONDE" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv5monde_1759826270_logo_svg.svg",TV5MONDE
+https://link/to/your/channel/128.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="Viasat History" tvg-logo="https://i.c.dk/tvicons/viasat_history_logo_svg.svg",Viasat History
+https://link/to/your/channel/130.m3u8
+#EXTINF:-1 tvg-id="131" tvg-name="Viasat Explore" tvg-logo="https://i.c.dk/tvicons/viasat_explore_logo_svg.svg",Viasat Explore
+https://link/to/your/channel/131.m3u8
+#EXTINF:-1 tvg-id="132" tvg-name="HISTORY2" tvg-logo="https://s.c.dk/tvlab/tvicons/h2_1566558671_logo_svg.svg",HISTORY2
+https://link/to/your/channel/132.m3u8
+#EXTINF:-1 tvg-id="133" tvg-name="Eurosport 2" tvg-logo="https://s.c.dk/tvlab/tvicons/prdeurosport-2_1760010248_logo_svg.svg",Eurosport 2
+https://link/to/your/channel/133.m3u8
+#EXTINF:-1 tvg-id="134" tvg-name="V film hits" tvg-logo="https://s.c.dk/tvlab/tvicons/prdv-film-hits_1591700324_logo_svg.svg",V film hits
+https://link/to/your/channel/134.m3u8
+#EXTINF:-1 tvg-id="135" tvg-name="V series" tvg-logo="https://s.c.dk/tvlab/tvicons/prdv-series_1591700888_logo_svg.svg",V series
+https://link/to/your/channel/135.m3u8
+#EXTINF:-1 tvg-id="136" tvg-name="V film premiere" tvg-logo="https://s.c.dk/tvlab/tvicons/prdv-film-premiere_1591700482_logo_svg.svg",V film premiere
+https://link/to/your/channel/136.m3u8
+#EXTINF:-1 tvg-id="138" tvg-name="V sport golf" tvg-logo="https://s.c.dk/tvlab/tvicons/prdv-sport-golf_1591701359_logo_svg.svg",V sport golf
+https://link/to/your/channel/138.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="Bloomberg News" tvg-logo="https://s.c.dk/tvlab/tvicons/prdbloomberg-news_1666595836_logo_svg.svg",Bloomberg News
+https://link/to/your/channel/143.m3u8
+#EXTINF:-1 tvg-id="149" tvg-name="Discovery ID" tvg-logo="https://s.c.dk/tvlab/tvicons/prddiscovery-id_1716297399_logo_svg.svg",Discovery ID
+https://link/to/your/channel/149.m3u8
+#EXTINF:-1 tvg-id="160" tvg-name="FOLKETINGET" tvg-logo="https://s.c.dk/tvlab/tvicons/prdfolketinget_1601879643_logo_svg.svg",FOLKETINGET
+https://link/to/your/channel/160.m3u8
+#EXTINF:-1 tvg-id="162" tvg-name="Cartoonito" tvg-logo="https://s.c.dk/tvlab/tvicons/prdcartoonito_1693813519_logo_svg.svg",Cartoonito
+https://link/to/your/channel/162.m3u8
+#EXTINF:-1 tvg-id="163" tvg-name="YouSee Premiere" tvg-logo="https://s.c.dk/tvlab/tvicons/prdyousee-premiere_1704808137_logo_svg.svg",YouSee Premiere
+https://link/to/your/channel/163.m3u8
+#EXTINF:-1 tvg-id="178" tvg-name="SkyShowtime 2" tvg-logo="https://s.c.dk/tvlab/tvicons/prdskyshowtime-2_1663662830_logo_svg.svg",SkyShowtime 2
+https://link/to/your/channel/178.m3u8
+#EXTINF:-1 tvg-id="179" tvg-name="SkyShowtime 1" tvg-logo="https://s.c.dk/tvlab/tvicons/prdskyshowtime-1_1663662644_logo_svg.svg",SkyShowtime 1
+https://link/to/your/channel/179.m3u8
+#EXTINF:-1 tvg-id="180" tvg-name="V film action" tvg-logo="https://s.c.dk/tvlab/tvicons/prdv-film-action_1591699922_logo_svg.svg",V film action
+https://link/to/your/channel/180.m3u8
+#EXTINF:-1 tvg-id="183" tvg-name="V film family" tvg-logo="https://s.c.dk/tvlab/tvicons/prdv-film-family_1591700113_logo_svg.svg",V film family
+https://link/to/your/channel/183.m3u8
+#EXTINF:-1 tvg-id="187" tvg-name="Al Jazeera Engelsk" tvg-logo="https://s.c.dk/tvlab/tvicons/prdal-jazeera-engelsk_1666595660_logo_svg.svg",Al Jazeera Engelsk
+https://link/to/your/channel/187.m3u8
+#EXTINF:-1 tvg-id="188" tvg-name="Jordan TV" tvg-logo="https://i.c.dk/tvicons/db188_jordan_tv_extralarge.png",Jordan TV
+https://link/to/your/channel/188.m3u8
+#EXTINF:-1 tvg-id="189" tvg-name="Kurdisk TV" tvg-logo="https://s.c.dk/tvlab/tvicons/kurdisk_tv_1553767814_logo_svg.svg",Kurdisk TV
+https://link/to/your/channel/189.m3u8
+#EXTINF:-1 tvg-id="190" tvg-name="Sudan TV" tvg-logo="https://s.c.dk/tvlab/tvicons/sudan_tv_1552777546_logo_svg.svg",Sudan TV
+https://link/to/your/channel/190.m3u8
+#EXTINF:-1 tvg-id="195" tvg-name="3Sat" tvg-logo="https://s.c.dk/tvlab/tvicons/prd3sat_1666595350_logo_svg.svg",3Sat
+https://link/to/your/channel/195.m3u8
+#EXTINF:-1 tvg-id="200" tvg-name="France 2" tvg-logo="https://s.c.dk/tvlab/tvicons/prdfrance-2_1666596476_logo_svg.svg",France 2
+https://link/to/your/channel/200.m3u8
+#EXTINF:-1 tvg-id="202" tvg-name="Rai 1" tvg-logo="https://s.c.dk/tvlab/tvicons/raiuno_1552040935_logo_svg.svg",Rai 1
+https://link/to/your/channel/202.m3u8
+#EXTINF:-1 tvg-id="204" tvg-name="TVE" tvg-logo="https://s.c.dk/tvlab/tvicons/tve_1551961639_logo_svg.svg",TVE
+https://link/to/your/channel/204.m3u8
+#EXTINF:-1 tvg-id="205" tvg-name="Netflix paraply" tvg-logo="https://s.c.dk/tvlab/tvicons/prdnetflix_1641978970_logo_svg.svg",Netflix paraply
+https://link/to/your/channel/205.m3u8
+#EXTINF:-1 tvg-id="207" tvg-name="Netflix på 1 skærm" tvg-logo="https://s.c.dk/tvlab/tvicons/netflix_bs_1_1542980114_logo_svg.svg",Netflix på 1 skærm
+https://link/to/your/channel/207.m3u8
+#EXTINF:-1 tvg-id="208" tvg-name="Netflix på 2 skærme" tvg-logo="https://s.c.dk/tvlab/tvicons/netflix_bs_2_1542980411_logo_svg.svg",Netflix på 2 skærme
+https://link/to/your/channel/208.m3u8
+#EXTINF:-1 tvg-id="210" tvg-name="TVP Polonia" tvg-logo="https://s.c.dk/tvlab/tvicons/tv_polonia_1551958618_logo_svg.svg",TVP Polonia
+https://link/to/your/channel/210.m3u8
+#EXTINF:-1 tvg-id="214" tvg-name="SkyShowtime Select" tvg-logo="https://s.c.dk/tvlab/tvicons/prdskyshowtime-select_1730278291_logo_svg.svg",SkyShowtime Select
+https://link/to/your/channel/214.m3u8
+#EXTINF:-1 tvg-id="221" tvg-name="RTCG" tvg-logo="https://s.c.dk/tvlab/tvicons/rtcg_1551884854_logo_svg.svg",RTCG
+https://link/to/your/channel/221.m3u8
+#EXTINF:-1 tvg-id="222" tvg-name="Netflix" tvg-logo="https://s.c.dk/tvlab/tvicons/prdnetflix_1641979208_logo_svg.svg",Netflix
+https://link/to/your/channel/222.m3u8
+#EXTINF:-1 tvg-id="223" tvg-name="HBO Max Standard" tvg-logo="https://s.c.dk/tvlab/tvicons/prdhbo-max-standard_1752006864_logo_svg.svg",HBO Max Standard
+https://link/to/your/channel/223.m3u8
+#EXTINF:-1 tvg-id="224" tvg-name="C More" tvg-logo="https://s.c.dk/tvlab/tvicons/c_more_1551101313_logo_svg.svg",C More
+https://link/to/your/channel/224.m3u8
+#EXTINF:-1 tvg-id="226" tvg-name="Min Bio" tvg-logo="https://i.c.dk/tvicons/min_bio_barker_logo_svg.svg",Min Bio
+https://link/to/your/channel/226.m3u8
+#EXTINF:-1 tvg-id="227" tvg-name="Dansk Filmskat" tvg-logo="https://s.c.dk/tvlab/tvicons/prddansk-filmskat_1608026417_logo_svg.svg",Dansk Filmskat
+https://link/to/your/channel/227.m3u8
+#EXTINF:-1 tvg-id="229" tvg-name="SF Anytime" tvg-logo="https://s.c.dk/tvlab/tvicons/prdsf-anytime_1686608170_logo_svg.svg",SF Anytime
+https://link/to/your/channel/229.m3u8
+#EXTINF:-1 tvg-id="231" tvg-name="OTT3" tvg-logo="https://s.c.dk/tvlab/tvicons/prdott-3_1738672827_logo_svg.svg",OTT3
+https://link/to/your/channel/231.m3u8
+#EXTINF:-1 tvg-id="232" tvg-name="OTT1" tvg-logo="https://s.c.dk/tvlab/tvicons/prdott-1_1723115978_logo_svg.svg",OTT1
+https://link/to/your/channel/232.m3u8
+#EXTINF:-1 tvg-id="233" tvg-name="OTT4" tvg-logo="https://s.c.dk/tvlab/tvicons/prdott-4_1738672943_logo_svg.svg",OTT4
+https://link/to/your/channel/233.m3u8
+#EXTINF:-1 tvg-id="239" tvg-name="OTT2" tvg-logo="https://s.c.dk/tvlab/tvicons/prdott-2_1723116219_logo_svg.svg",OTT2
+https://link/to/your/channel/239.m3u8
+#EXTINF:-1 tvg-id="242" tvg-name="YouSee Film og Serier" tvg-logo="https://s.c.dk/tvlab/tvicons/prdyousee-film-og-serier_1704808286_logo_svg.svg",YouSee Film og Serier
+https://link/to/your/channel/242.m3u8
+#EXTINF:-1 tvg-id="243" tvg-name="SkyShowtime" tvg-logo="https://s.c.dk/tvlab/tvicons/prdskyshowtime_1730277957_logo_svg.svg",SkyShowtime
+https://link/to/your/channel/243.m3u8
+#EXTINF:-1 tvg-id="246" tvg-name="Nick+" tvg-logo="https://s.c.dk/tvlab/tvicons/prdnick_1717507408_logo_svg.svg",Nick+
+https://link/to/your/channel/246.m3u8
+#EXTINF:-1 tvg-id="247" tvg-name="National Geographic Now" tvg-logo="https://s.c.dk/tvlab/tvicons/prdnational-geographic-now_1663063957_logo_svg.svg",National Geographic Now
+https://link/to/your/channel/247.m3u8
+#EXTINF:-1 tvg-id="249" tvg-name="Nordisk Film+" tvg-logo="https://s.c.dk/tvlab/tvicons/prdnordisk-film_1608026080_logo_svg.svg",Nordisk Film+
+https://link/to/your/channel/249.m3u8
+#EXTINF:-1 tvg-id="251" tvg-name="Al Jazeera Arabic" tvg-logo="https://s.c.dk/tvlab/tvicons/prdal-jazeera_1666595524_logo_svg.svg",Al Jazeera Arabic
+https://link/to/your/channel/251.m3u8
+#EXTINF:-1 tvg-id="252" tvg-name="EDTV - Dubai TV" tvg-logo="https://s.c.dk/tvlab/tvicons/edtv__dubai_tv_1551683288_logo_svg.svg",EDTV - Dubai TV
+https://link/to/your/channel/252.m3u8
+#EXTINF:-1 tvg-id="253" tvg-name="Al Masriyah" tvg-logo="https://s.c.dk/tvlab/tvicons/al_masriyah_1550578230_logo_svg.svg",Al Masriyah
+https://link/to/your/channel/253.m3u8
+#EXTINF:-1 tvg-id="254" tvg-name="Al Aoula" tvg-logo="https://s.c.dk/tvlab/tvicons/al_aoula_1550239420_logo_svg.svg",Al Aoula
+https://link/to/your/channel/254.m3u8
+#EXTINF:-1 tvg-id="258" tvg-name="Abu Dhabi TV" tvg-logo="https://s.c.dk/tvlab/tvicons/abu_dhabi_tv_1552406064_logo_svg.svg",Abu Dhabi TV
+https://link/to/your/channel/258.m3u8
+#EXTINF:-1 tvg-id="264" tvg-name="See" tvg-logo="https://s.c.dk/tvlab/tvicons/prdxee_1640843314_logo_svg.svg",See
+https://link/to/your/channel/264.m3u8
+#EXTINF:-1 tvg-id="266" tvg-name="MyZen TV" tvg-logo="https://s.c.dk/tvlab/tvicons/prdmyzen-tv_1671616968_logo_svg.svg",MyZen TV
+https://link/to/your/channel/266.m3u8
+#EXTINF:-1 tvg-id="269" tvg-name="TV 2 Sport X" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv-2-sport-x_1679909700_logo_svg.svg",TV 2 Sport X
+https://link/to/your/channel/269.m3u8
+#EXTINF:-1 tvg-id="270" tvg-name="DR TV" tvg-logo="https://s.c.dk/tvlab/tvicons/drtv_1574778576_logo_svg.svg",DR TV
+https://link/to/your/channel/270.m3u8
+#EXTINF:-1 tvg-id="276" tvg-name="CCTV-4" tvg-logo="https://s.c.dk/tvlab/tvicons/cctv_4_1550839652_logo_svg.svg",CCTV-4
+https://link/to/your/channel/276.m3u8
+#EXTINF:-1 tvg-id="290" tvg-name="V sport ultra HD" tvg-logo="https://s.c.dk/tvlab/tvicons/prdv-sport-ultra-hd_1591701596_logo_svg.svg",V sport ultra HD
+https://link/to/your/channel/290.m3u8
+#EXTINF:-1 tvg-id="293" tvg-name="TV 2 PLAY" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv-2-play-favorit-sport_1680007630_logo_svg.svg",TV 2 PLAY
+https://link/to/your/channel/293.m3u8
+#EXTINF:-1 tvg-id="302" tvg-name="YouTube" tvg-logo="",YouTube
+https://link/to/your/channel/302.m3u8
+#EXTINF:-1 tvg-id="305" tvg-name="TV 2 PLAY" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv-2-play-favorit-sport_1680007783_logo_svg.svg",TV 2 PLAY
+https://link/to/your/channel/305.m3u8
+#EXTINF:-1 tvg-id="307" tvg-name="Disney+" tvg-logo="https://s.c.dk/tvlab/tvicons/prddisney-premium_1750069073_logo_svg.svg",Disney+
+https://link/to/your/channel/307.m3u8
+#EXTINF:-1 tvg-id="308" tvg-name="TV 2 Play app" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv2app-bk_1674740091_logo_svg.svg",TV 2 Play app
+https://link/to/your/channel/308.m3u8
+#EXTINF:-1 tvg-id="309" tvg-name="Viaplay app" tvg-logo="https://s.c.dk/tvlab/tvicons/prdviaplay_1750069372_logo_svg.svg",Viaplay app
+https://link/to/your/channel/309.m3u8
+#EXTINF:-1 tvg-id="310" tvg-name="HBO Max Standard + Sport" tvg-logo="https://s.c.dk/tvlab/tvicons/prdhbo-max-standard-sport_1752007898_logo_svg.svg",HBO Max Standard + Sport
+https://link/to/your/channel/310.m3u8
+#EXTINF:-1 tvg-id="311" tvg-name="TV2 NORD" tvg-logo="https://s.c.dk/tvlab/tvicons/tv2_nord_1551725658_logo_svg.svg",TV2 NORD
+https://link/to/your/channel/311.m3u8
+#EXTINF:-1 tvg-id="312" tvg-name="TV MIDTVEST" tvg-logo="https://i.c.dk/tvicons/tv_mid_logo_svg.svg",TV MIDTVEST
+https://link/to/your/channel/312.m3u8
+#EXTINF:-1 tvg-id="313" tvg-name="TV2 Østjylland" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv2-ostjylland_1697442894_logo_svg.svg",TV2 Østjylland
+https://link/to/your/channel/313.m3u8
+#EXTINF:-1 tvg-id="314" tvg-name="TV SYD" tvg-logo="https://i.c.dk/tvicons/tv_syd_logo_svg.svg",TV SYD
+https://link/to/your/channel/314.m3u8
+#EXTINF:-1 tvg-id="315" tvg-name="TV2/Fyn" tvg-logo="https://s.c.dk/tvlab/tvicons/tv_fyn_1551958125_logo_svg.svg",TV2/Fyn
+https://link/to/your/channel/315.m3u8
+#EXTINF:-1 tvg-id="316" tvg-name="TV2 ØST" tvg-logo="https://s.c.dk/tvlab/tvicons/tv_st_1554817281_logo_svg.svg",TV2 ØST
+https://link/to/your/channel/316.m3u8
+#EXTINF:-1 tvg-id="317" tvg-name="Kosmopol" tvg-logo="https://s.c.dk/tvlab/tvicons/prdkosmopol_1673389062_logo_svg.svg",Kosmopol
+https://link/to/your/channel/317.m3u8
+#EXTINF:-1 tvg-id="318" tvg-name="TV 2/Bornholm" tvg-logo="https://s.c.dk/tvlab/tvicons/tv_2_bornholm_1551721886_logo_svg.svg",TV 2/Bornholm
+https://link/to/your/channel/318.m3u8
+#EXTINF:-1 tvg-id="321" tvg-name="BBC Nordic+" tvg-logo="https://s.c.dk/tvlab/tvicons/prdbbc-nordic_1717507977_logo_svg.svg",BBC Nordic+
+https://link/to/your/channel/321.m3u8
+#EXTINF:-1 tvg-id="322" tvg-name="HBO Max Standard" tvg-logo="https://s.c.dk/tvlab/tvicons/prdhbo-max-standard_1752007399_logo_svg.svg",HBO Max Standard
+https://link/to/your/channel/322.m3u8
+#EXTINF:-1 tvg-id="323" tvg-name="TV 2 Danmark Østjylland" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv-2_1679921455_logo_svg.svg",TV 2 Danmark Østjylland
+https://link/to/your/channel/323.m3u8
+#EXTINF:-1 tvg-id="324" tvg-name="TV 2 Danmark Syd" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv-2_1679921575_logo_svg.svg",TV 2 Danmark Syd
+https://link/to/your/channel/324.m3u8
+#EXTINF:-1 tvg-id="325" tvg-name="TV 2 Danmark Fyn" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv-2_1679923360_logo_svg.svg",TV 2 Danmark Fyn
+https://link/to/your/channel/325.m3u8
+#EXTINF:-1 tvg-id="326" tvg-name="TV 2 Danmark Bornholm" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv-2_1679923473_logo_svg.svg",TV 2 Danmark Bornholm
+https://link/to/your/channel/326.m3u8
+#EXTINF:-1 tvg-id="327" tvg-name="TV 2 Danmark Midtvest" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv-2_1679923620_logo_svg.svg",TV 2 Danmark Midtvest
+https://link/to/your/channel/327.m3u8
+#EXTINF:-1 tvg-id="328" tvg-name="TV 2 Danmark Nord" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv-2_1679923737_logo_svg.svg",TV 2 Danmark Nord
+https://link/to/your/channel/328.m3u8
+#EXTINF:-1 tvg-id="329" tvg-name="TV 2 Danmark Øst" tvg-logo="https://s.c.dk/tvlab/tvicons/prdtv-2_1679917572_logo_svg.svg",TV 2 Danmark Øst
+https://link/to/your/channel/329.m3u8
+#EXTINF:-1 tvg-id="336" tvg-name="Viaplay" tvg-logo="https://s.c.dk/tvlab/tvicons/prdviaplay-film-serier_1742377994_logo_svg.svg",Viaplay
+https://link/to/your/channel/336.m3u8
+#EXTINF:-1 tvg-id="338" tvg-name="Netflix på 3 skærme" tvg-logo="https://s.c.dk/tvlab/tvicons/prdnf-bs-p-25_1727680551_logo_svg.svg",Netflix på 3 skærme
+https://link/to/your/channel/338.m3u8
+#EXTINF:-1 tvg-id="339" tvg-name="Prime Video" tvg-logo="https://s.c.dk/tvlab/tvicons/prdprime-video_1753693529_logo_svg.svg",Prime Video
+https://link/to/your/channel/339.m3u8
+#EXTINF:-1 tvg-id="347" tvg-name="Prime Video" tvg-logo="https://s.c.dk/tvlab/tvicons/prdprime-video_1752652195_logo_svg.svg",Prime Video
+https://link/to/your/channel/347.m3u8
+#EXTINF:-1 tvg-id="367" tvg-name="Blue Hustler" tvg-logo="https://s.c.dk/tvlab/tvicons/blue_hustler_1550760680_logo_svg.svg",Blue Hustler
+https://link/to/your/channel/367.m3u8
+#EXTINF:-1 tvg-id="402" tvg-name="GVD Info" tvg-logo="https://s.c.dk/tvlab/tvicons/prdgvd-info_1739352469_logo_svg.svg",GVD Info
+https://link/to/your/channel/402.m3u8
+#EXTINF:-1 tvg-id="403" tvg-name="VråNet Info" tvg-logo="https://s.c.dk/tvlab/tvicons/prdvranet-info_1746445774_logo_svg.svg",VråNet Info
+https://link/to/your/channel/403.m3u8
+#EXTINF:-1 tvg-id="411" tvg-name="Kanal Nord/Tegnsprog" tvg-logo="https://s.c.dk/tvlab/tvicons/kanalen_nord_1553767050_logo_svg.svg",Kanal Nord/Tegnsprog
+https://link/to/your/channel/411.m3u8
+#EXTINF:-1 tvg-id="412" tvg-name="Kanal Midtvest/Tegnsprog" tvg-logo="https://s.c.dk/tvlab/tvicons/kanalen_midtvest_1551443630_logo_svg.svg",Kanal Midtvest/Tegnsprog
+https://link/to/your/channel/412.m3u8
+#EXTINF:-1 tvg-id="413" tvg-name="Kanal Østjylland/Tegnsprog" tvg-logo="https://s.c.dk/tvlab/tvicons/kanal_stjylland_1551361245_logo_svg.svg",Kanal Østjylland/Tegnsprog
+https://link/to/your/channel/413.m3u8
+#EXTINF:-1 tvg-id="414" tvg-name="Kanal Syd/Tegnsprog" tvg-logo="https://i.c.dk/tvicons/kanal_syd_logo_svg.png",Kanal Syd/Tegnsprog
+https://link/to/your/channel/414.m3u8
+#EXTINF:-1 tvg-id="415" tvg-name="Kanal Fyn/Tegnsprog" tvg-logo="https://s.c.dk/tvlab/tvicons/fynbo_tv_1551361332_logo_svg.svg",Kanal Fyn/Tegnsprog
+https://link/to/your/channel/415.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="Kanal Øst/Tegnsprog" tvg-logo="https://s.c.dk/tvlab/tvicons/kanalen_st_1553028438_logo_svg.svg",Kanal Øst/Tegnsprog
+https://link/to/your/channel/416.m3u8
+#EXTINF:-1 tvg-id="417" tvg-name="Kanal Hovedstaden/Tegnsprog" tvg-logo="https://s.c.dk/tvlab/tvicons/kanal_hovedstaden_1568301366_logo_svg.svg",Kanal Hovedstaden/Tegnsprog
+https://link/to/your/channel/417.m3u8
+#EXTINF:-1 tvg-id="418" tvg-name="Kanal Bornholm/Tegnsprog" tvg-logo="https://i.c.dk/tvicons/db418_kanalen_bornholm_extralarge.png",Kanal Bornholm/Tegnsprog
+https://link/to/your/channel/418.m3u8
+#EXTINF:-1 tvg-id="505" tvg-name="DR Ramasjang" tvg-logo="https://s.c.dk/tvlab/tvicons/prddr-ramasjang_1577861612_logo_svg.",DR Ramasjang
+https://link/to/your/channel/505.m3u8
