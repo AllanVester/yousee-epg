@@ -1,0 +1,52 @@
+name: YouSee EPG
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 5 * * *'
+
+jobs:
+  epg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+      
+      - name: Checkout YouSee repository
+        uses: actions/checkout@v5
+        with:
+          repository: "${{ github.repository_owner }}/yousee"
+          ref: "main"
+          path: "${{ github.workspace }}/temp/"
+          sparse-checkout: |
+            /python/fetchEPG.py
+          sparse-checkout-cone-mode: false
+          token: "${{ secrets.PAT }}"
+
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Python dependencies
+        run: |
+          pip install pymongo
+
+      - name: Fetch YouSee EPG
+        run: |
+          python ${{ github.workspace }}/temp/python/fetchEPG.py
+
+          mv ${{ github.workspace }}/temp/python/epg.m3u8 ${{ github.workspace }}/epg.m3u8
+          mv ${{ github.workspace }}/temp/python/epg.xml ${{ github.workspace }}/epg.xml
+
+      - name: Commit and push EPG
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          
+          git add epg.m3u8 epg.xml
+          
+          git commit -m "Updated EPG"
+          
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
